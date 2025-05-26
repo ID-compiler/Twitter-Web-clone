@@ -1,1 +1,1 @@
-# Twitter-Web-clone
+Deleted README.md
